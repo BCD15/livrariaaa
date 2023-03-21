@@ -23,7 +23,7 @@ class Autor (models.Model):
         return self.nome
     
     class Meta:
-        verbose_name_plural = "Autores"
+        verbose_name_plural = "Autores"     
 
 
 class Livro(models.Model):
