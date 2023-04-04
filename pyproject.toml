@@ -5,7 +5,7 @@ name = ""
 version = ""
 description = ""
 authors = [
-    {name = "Dominic Krelling", email = "dominic.krelling@gmail.com"},
+    {name = "Bruno Dias", email = "bruno69correadias@gmail.com"},
 ]
 dependencies = [
     "django>=4.1.7",
